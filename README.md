@@ -66,7 +66,7 @@ public class AuditConfig {
 
 ## 🏆 Cas d'Usage Réel
 
-Utilisé en production sur systèmes fintech (MoneyTrack) et secteur public (UGAP) pour conformité RGPD et audits de sécurité.
+Utilisé en production sur systèmes fintech et secteur public pour conformité RGPD et audits de sécurité.
 
 **Bénéfices** :
 - ✅ Conformité 100% RGPD
